@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://dongm.hitad.co.kr/sitemap.xml
+Sitemap:http://dongm.qustmddus.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
